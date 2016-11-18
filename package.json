@@ -4,7 +4,7 @@
   "description": "JS implementation of vedic sutras",
   "repository": {
     "type": "",
-    "url": ""
+    "url": "https://github.com/techmoksha/vedic-js"
   },
   "author": "Aditya Athalye",
   "dependencies": {},
