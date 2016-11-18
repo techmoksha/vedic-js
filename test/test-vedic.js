@@ -2,8 +2,8 @@
  * Created by aditya on 4/6/16.
  */
 
-var Vedic_js = require('../lib/vedic').Vedic;
-var Vedic    = new Vedic_js();
+var Vedic = require('../lib/vedic').Vedic;
+
 
 function test_add() {
 	console.log(Vedic.add(['123', '254', '267']));
