@@ -1,13 +1,23 @@
 {
-	"name": "vedic-js",
-	"version": "1.0.0",
-	"description": "JS implementation of vedic sutras",
-	"repository": {
-		"type": "",
-		"url": ""
-	},
-	"author": "Aditya Athalye",
-	"dependencies": {
-
-	}
+  "name": "vedic-js",
+  "version": "1.0.0",
+  "description": "JS implementation of vedic sutras",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "Aditya Athalye",
+  "dependencies": {},
+  "main": "vedic.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vedic"
+  ],
+  "license": "ISC"
 }
