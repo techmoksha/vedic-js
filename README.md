@@ -48,8 +48,10 @@ console.log(Vedic.subtract('8729874983749238742938472398472398472398472394723984
 ```
 
 ## Multiplication
-Two vedic numbers can be multiplied using the * operator of javascript. The multiplication
-is performed using Vertical-Crosswise sutra of vedic maths
+Two vedic numbers can be multiplied using Vertical-Crosswise sutra of vedic maths.
+
+This is the most general form of multiplication and does not use any special
+properties of the 2 muliplicands.
 
 ```javascript
 const Vedic = require('../lib/vedic').Vedic;
